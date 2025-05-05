@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sworddut-mcp-local-file-reader-badge.png)](https://mseep.ai/app/sworddut-mcp-local-file-reader)
+
 # MCP Local File Reader
 
 一个基于 Model Context Protocol (MCP) 的本地文件读取服务器，允许 AI 模型安全地访问本地文件系统。
